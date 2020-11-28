@@ -1,0 +1,13 @@
+{
+  "name": "generator-stephen",
+  "version": "1.0.0",
+  "description": "ganerator",
+  "main": "generators/app/index.js",
+  "author": "stephen",
+  "license": "MIT",
+  "dependencies": {
+    "init-package-json": "^2.0.1",
+    "shell-task": "^1.0.0",
+    "yeoman-generator": "^4.12.0"
+  }
+}
